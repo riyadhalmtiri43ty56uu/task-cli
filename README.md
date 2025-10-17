@@ -2,6 +2,8 @@
 
 > ⌨️ بناء CLI عملي وممتع باستخدام **TypeScript + Node.js** — بدون مكتبات خارجية!
 
+## 🔗 رابط المشروع على GitHub
+[https://github.com/riyadhalmtiri43ty56uu/task-cli](https://github.com/riyadhalmtiri43ty56uu/task-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
